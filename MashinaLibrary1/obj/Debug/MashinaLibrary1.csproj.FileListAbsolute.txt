@@ -1,0 +1,6 @@
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\MashinaLibrary1\bin\Debug\MashinaLibrary1.dll
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\MashinaLibrary1\bin\Debug\MashinaLibrary1.pdb
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\MashinaLibrary1\obj\Debug\MashinaLibrary1.csproj.AssemblyReference.cache
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\MashinaLibrary1\obj\Debug\MashinaLibrary1.csproj.CoreCompileInputs.cache
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\MashinaLibrary1\obj\Debug\MashinaLibrary1.dll
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\MashinaLibrary1\obj\Debug\MashinaLibrary1.pdb

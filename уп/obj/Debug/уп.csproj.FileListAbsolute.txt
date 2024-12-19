@@ -1,0 +1,72 @@
+D:\4 курс\уп\уп\уп\bin\Debug\уп.exe.config
+D:\4 курс\уп\уп\уп\bin\Debug\уп.exe
+D:\4 курс\уп\уп\уп\bin\Debug\уп.pdb
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+D:\4 курс\уп\уп\уп\obj\Debug\уп.addRequest.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.avtorizatia.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.changeStatus.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.processingRequests.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.Properties.Resources.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.showRequestAdmin.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.GenerateResource.cache
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+D:\4 курс\уп\уп\уп\obj\Debug\уп.exe
+D:\4 курс\уп\уп\уп\obj\Debug\уп.pdb
+D:\4 курс\уп\уп\уп\obj\Debug\уп.historyLoginForm.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.clientForm.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.refreshRequest.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.showRequestClient.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.requestFormMaster.resources
+D:\4 курс\уп\уп\уп\bin\Debug\ClassLibrary1.dll
+D:\4 курс\уп\уп\уп\bin\Debug\ClassLibrary1.pdb
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.Up2Date
+D:\4 курс\уп\уп\уп\obj\Debug\уп.managerForm.resources
+D:\4 курс\уп\уп\уп\bin\Debug\QRCoder.dll
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe.config
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.pdb
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\QRCoder.dll
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\ClassLibrary1.pdb
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.addRequest.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.avtorizatia.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.changeStatus.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.clientForm.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.historyLoginForm.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.managerForm.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.processingRequests.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.Properties.Resources.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.refreshRequest.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.requestFormMaster.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestAdmin.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestClient.resources
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.GenerateResource.cache
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.Up2Date
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.exe
+C:\Users\429193-8\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.pdb
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe.config
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\QRCoder.dll
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\ClassLibrary1.pdb
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.addRequest.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.avtorizatia.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.changeStatus.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.clientForm.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.historyLoginForm.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.managerForm.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.processingRequests.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.Properties.Resources.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.refreshRequest.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.requestFormMaster.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestAdmin.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestClient.resources
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.GenerateResource.cache
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.Up2Date
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.exe
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.pdb
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.pdb
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\MashinaLibrary1.dll
+H:\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\MashinaLibrary1.pdb
